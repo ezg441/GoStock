@@ -1,34 +1,34 @@
 # GoStock
 
-GitHub Readme
+# GitHub Readme
 Takım İsmi
 
-Grup 4
+# Grup 4
 
-Ürün İle İlgili Bilgiler
+# Ürün İle İlgili Bilgiler
 
-Takım Elemanları
+# Takım Elemanları
 
 * John Doe: Product Owner
 * Jane Doe: Scrum Master
 * Atıl Samancıoğlu: Team Member/Developer
 
-Ürün İsmi
+# Ürün İsmi
 
---Movie App--
+--GoStock--
 
-Ürün Açıklaması
+# Ürün Açıklaması
 
 * Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
 
-Ürün Özellikleri
+# Ürün Özellikleri
 
 * Filmleri türüne göre ayırma
 * Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
 * IMDB ve Rotten Tomatoes puanlarını gösterme
 * Netflix'te ve Prime'da bulunurluğunu gösterme
 
-Hedef Kitle
+# Hedef Kitle
 
 * Netflix kullanıcıları
 * Prime kullanıcıları
@@ -36,18 +36,17 @@ Hedef Kitle
 * Dizi severler
 * 15 - 65 yaş arası kullanıcılar
 
-Product Backlog URL
+# Product Backlog URL
 
-Miro Backlog Board
+(Slack'teki Produckt Backlog sekmesinin public URL'si buraya eklenecek)
 
-Sprint 1
+# Sprint 1
 
 * Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-
-* Daily Scrum:
+# Daily Scrum:
 
 
 
@@ -80,14 +79,14 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 
-* Sprint board update: Sprint board screenshotları:
+# Sprint board update: Sprint board screenshotları:
 
 X
 X
 X
 
 
-* Ürün Durumu: Ekran görüntüleri:
+# Ürün Durumu: Ekran görüntüleri:
 
 X
 X
@@ -95,8 +94,19 @@ X
 
 
 
-* Sprint Review: Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
-* Sprint Retrospective:
+# Sprint Review:
+
+Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir.
+
+# Sprint Review katılımcıları:
+
+X
+X
+X
+X
+X
+
+# Sprint Retrospective:
     * Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
     * Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
     * Unit test'ler için ayrılan efor/saat arttırılmalı
