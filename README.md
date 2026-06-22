@@ -69,7 +69,7 @@ Sistem, esnafın günlük operasyonel yükünü sıfıra indirirken, müşterile
 * **17. GÜN**: 5 Temmuz 2026: *[ Daily scrum açıklaması ]*
 
 ### Sprint Board Durumu
-*[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
+* *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
 *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
 *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
 
