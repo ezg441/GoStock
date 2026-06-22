@@ -115,14 +115,14 @@ Sistem, esnafın günlük operasyonel yükünü sıfıra indirirken, müşterile
 * **31. GÜN**: 19 Temmuz 2026: *[ Daily scrum açıklaması ]*
 
 ### Sprint Board Durumu
-*[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
-*[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
-*[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
+* *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
+* *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
+* *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
 
 ### Ürün Durumu
-*[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
-*[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
-*[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
+* *[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
+* *[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
+* *[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
 
 ### Sprint Review
 * **Alınan Kararlar**:
@@ -161,14 +161,14 @@ Sistem, esnafın günlük operasyonel yükünü sıfıra indirirken, müşterile
 * **45. GÜN**: 2 Ağustos 2026: *[ Daily scrum açıklaması ]*
 
 ### Sprint Board Durumu
-*[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
-*[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
-*[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
+* *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
+* *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
+* *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
 
 ### Ürün Durumu
-*[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
-*[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
-*[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
+* *[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
+* *[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
+* *[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
 
 ### Sprint Review
 * **Alınan Kararlar**:
