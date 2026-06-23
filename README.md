@@ -50,7 +50,8 @@ Sistem, esnafın günlük operasyonel yükünü sıfıra indirirken, müşterile
 *[(Backlog oluşturulurken nasıl bir düzenin esas alındığı anlatılıyor. Örneğin, görevlerin önceliği, zorluk seviyesi vs.)]*
 
 ### Daily Scrum
-* **1. Gün**: 19 Haziran 2026: *Başlangıç yayınından hemen sonra görev dağılımı ve rol tanımları üzerine görüşmelere başlandı. Karar süreçlerini hızlandırmak amacıyla tüm proje fikirlerinin kolektif bir listede birleştirilmesi kararlaştırılarak ortak bir çalışma disiplini oluşturuldu.*
+* **1. Gün**: *19 Haziran 2026*: Başlangıç yayınından hemen sonra görev dağılımı ve rol tanımları üzerine görüşmelere başlandı. Karar süreçlerini hızlandırmak amacıyla tüm proje fikirlerinin kolektif bir listede birleştirilmesi kararlaştırılarak ortak bir çalışma disiplini oluşturuldu.
+  
 * **2. Gün**: 20 Haziran 2026: *Proje fikrini ve ekip rollerini konuşmak üzere bir toplantı saati belirlendi.*
 * **3. Gün**: 21 Haziran 2026: *Projenin ne olduğu ve roller belirlendi. Product backlog'un ve ardından ilk sprintin de hazırlanması kararlaştırıldı.*
 * **4. GÜN**: 22 Haziran 2026: *Projenin teknik sürecinde zaman ve imkanlar açısından gerçekleştirilmesi zor noktalar tespit edildi. Bu sebeple süreç, proje fikri konusunda bir revize yapma veya tamamen yeni bir proje fikriyle baştan başlama şeklinde bir yöne evrildi.*
