@@ -19,23 +19,12 @@ Grup 4 Yapay Zeka ve Teknoloji Akademisi - No-Code/Low-Code Bootcamp 2026 Projes
 Commentra
 
 ### Ürün Açıklaması
-*
-*
-*
-*
-*
-*
-*
+XXXXXXXXXXXXXXX
 
 ### Ürün Özellikleri
-*
-*
-*
-*
-*
-*
-*
-*
+* XXX
+* XXX
+* XXX
 
 ### Hedef Kitle
 * XXX
