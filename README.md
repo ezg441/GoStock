@@ -67,14 +67,19 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 | **17. GÜN** | 5 Temmuz 2026 | Daily scrum açıklaması |
 
 ### Sprint Board Durumu
-* *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
-* *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
-* *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
+#### 1. Ekran Görüntüsü (24.06.2026)
+<img width="1635" height="736" alt="resim" src="https://github.com/user-attachments/assets/2f85c585-0797-4cc8-ae1e-4e8a877b3fe7" />
+
+#### 2. Ekran Görüntüsü (XX.XX.XXXX)
+
+#### 3. Ekran Görüntüsü (XX.XX.XXXX)
 
 ### Ürün Durumu
-* *[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
-* *[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
-* *[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
+#### 1. Ekran Görüntüsü (XX.XX.XXXX)
+
+#### 2. Ekran Görüntüsü (XX.XX.XXXX)
+
+#### 3. Ekran Görüntüsü (XX.XX.XXXX)
 
 ### Sprint Review
 * **Alınan Kararlar**:
@@ -119,14 +124,18 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 | **31. GÜN** | 19 Temmuz 2026 | Daily scrum açıklaması |
 
 ### Sprint Board Durumu
-* *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
-* *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
-* *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
+#### 1. Ekran Görüntüsü (XX.XX.XXXX)
+
+#### 2. Ekran Görüntüsü (XX.XX.XXXX)
+
+#### 3. Ekran Görüntüsü (XX.XX.XXXX)
 
 ### Ürün Durumu
-* *[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
-* *[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
-* *[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
+#### 1. Ekran Görüntüsü (XX.XX.XXXX)
+
+#### 2. Ekran Görüntüsü (XX.XX.XXXX)
+
+#### 3. Ekran Görüntüsü (XX.XX.XXXX)
 
 ### Sprint Review
 * **Alınan Kararlar**:
@@ -171,14 +180,18 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 | **45. GÜN** | 2 Ağustos 2026 | Daily scrum açıklaması |
 
 ### Sprint Board Durumu
-* *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
-* *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
-* *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
+#### 1. Ekran Görüntüsü (XX.XX.XXXX)
+
+#### 2. Ekran Görüntüsü (XX.XX.XXXX)
+
+#### 3. Ekran Görüntüsü (XX.XX.XXXX)
 
 ### Ürün Durumu
-* *[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
-* *[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
-* *[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
+#### 1. Ekran Görüntüsü (XX.XX.XXXX)
+
+#### 2. Ekran Görüntüsü (XX.XX.XXXX)
+
+#### 3. Ekran Görüntüsü (XX.XX.XXXX)
 
 ### Sprint Review
 * **Alınan Kararlar**:
