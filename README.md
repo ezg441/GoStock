@@ -1,4 +1,4 @@
-# COMMENTRA: " XXXXXXX "
+# [XXX]: " Akıllı İçerik Öneri Takip Sistemi "
 
 Grup 4 Yapay Zeka ve Teknoloji Akademisi - No-Code/Low-Code Bootcamp 2026 Projesi
 
@@ -7,29 +7,30 @@ Grup 4 Yapay Zeka ve Teknoloji Akademisi - No-Code/Low-Code Bootcamp 2026 Projes
 ## Takım Elemanları ve Rol Dağılımı
 * **Ezgisu Badak**: Product Owner 
 * **Ufuk Demir**: Scrum Master 
-* **Ayşe Dilara Baysal**: Team Member / Developer (Sistem Mimarisi & n8n/AppSheet Geliştirici)
-* **Feyzanur Karatay**: Team Member / Developer (Sistem Mimarisi & n8n/AppSheet Geliştirici)
-* **Furkan Çakı**: Team Member / Developer (Sistem Mimarisi & n8n/AppSheet Geliştirici)
+* **Ayşe Dilara Baysal**: Team Member / Developer
+* **Feyzanur Karatay**: Team Member / Developer
+* **Furkan Çakı**: Team Member / Developer
 
 ---
 
 ## Ürün Bilgileri
 ### Ürün İsmi
-Commentra
+[XXX]
 
 ### Ürün Açıklaması
-XXXXXXXXXXXXXXX
+[XXX], YouTube içerik üreticilerinin topluluklarından gelen değerli içerik fikirlerini kaçırmamasını sağlayan akıllı bir otomasyon sistemidir. YZTA-2026 BOOTCAMP kapsamında geliştirilen bu proje, YouTube yorumlarını otomatik olarak izler, Yapay Zeka (Google Gemini) desteğiyle "içerik tavsiyesi" taşıyan yorumları ayırt eder ve bu verileri düzenli bir rapor halinde kanal sahibine iletir. [XXX], içerik üreticilerinin takipçileriyle kurduğu bağı güçlendirirken, içerik planlama sürecini veri odaklı bir hale getirir.
 
 ### Ürün Özellikleri
-* XXX
-* XXX
-* XXX
+[XXX] projesinin temel fonksiyonları şunlardır:
+* **Akıllı Yorum İzleme**: YouTube kanalından gelen tüm yorumlar anlık olarak yakalanır ve mükerrer (duplicate) kayıtlar elenerek temiz bir veri akışı sağlanır
+* **İçerik İsteği Analizi**: Google Gemini entegrasyonu sayesinde, yorumların içerik tavsiyesi veya içerik isteği içerip içermediği otomatik olarak tespit edilir.
+* **Merkezi Veri Yönetimi**: İşlenen tüm yorumlar; metin, beğeni sayısı ve tarih bilgileriyle birlikte Google Sheets üzerinde kurumsal bir tablo yapısında depolanır.
+* **Otomatik Raporlama**: Sistem, periyodik olarak (haftalık/günlük) veri tabanını analiz eder ve en çok beğeni alan "içerik tavsiyelerini" derleyerek şık bir HTML e-posta tasarımı ile kanal sahibine raporlar.
 
 ### Hedef Kitle
-* XXX
-* XXX
-* XXX
-* XXX
+[XXX], özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
+* **YouTube İçerik Üreticileri**: Takipçilerinden gelen harika fikirleri yorumlar arasında kaybetmek istemeyen ve içerik planlama sürecini otomatize etmek isteyen üreticiler.
+* **Kanal Yöneticileri**: Topluluk etkileşimlerini analiz edip, kanal stratejisini izleyici geri bildirimlerine göre şekillendirmeyi hedefleyen profesyoneller.
 
 ### Product Backlog
 [https://yzta.slack.com/lists/T02LKGXV98C/F0BC0E7CD8U]
@@ -52,7 +53,7 @@ XXXXXXXXXXXXXXX
 | **2. GÜN** | 20 Haziran 2026 | Proje fikrini ve ekip rollerini konuşmak üzere bir toplantı saati belirlendi. |
 | **3. GÜN** | 21 Haziran 2026 | Projenin ne olduğu ve roller belirlendi. Product backlog'un ve ardından ilk sprintin de hazırlanması kararlaştırıldı. |
 | **4. GÜN** | 22 Haziran 2026 | Projenin teknik sürecinde zaman ve imkanlar açısından gerçekleştirilmesi zor noktalar tespit edildi. Bu sebeple süreç, proje fikri konusunda bir revize yapma veya tamamen yeni bir proje fikriyle baştan başlama şeklinde bir yöne evrildi. |
-| **5. GÜN** | 23 Haziran 2026 | Proje fikri değişikliğine gidilmesine karar verilerek **GoStock** projesinden vazgeçildi ve proje fikri **Commentra** olarak netleştirildi. Developer'ların fikirleri esas alınarak bu doğrultuda 24.06.2026 tarihinde product backlogun oluşturulması kararlaştırıldı. |
+| **5. GÜN** | 23 Haziran 2026 | Proje fikri değişikliğine gidilmesine karar verilerek **GoStock** projesinden vazgeçildi ve proje fikri **[XXX]** olarak netleştirildi. Developer'ların fikirleri esas alınarak bu doğrultuda 24.06.2026 tarihinde product backlogun oluşturulması kararlaştırıldı. |
 | **6. GÜN** | 24 Haziran 2026 | Daily scrum açıklaması |
 | **7. GÜN** | 25 Haziran 2026 | Daily scrum açıklaması |
 | **8. GÜN** | 26 Haziran 2026 | Daily scrum açıklaması |
@@ -85,6 +86,10 @@ XXXXXXXXXXXXXXX
 * 
 * 
 
+### Sprint Notları
+* 
+* 
+* 
 ---
 
 ## SPRINT 2
@@ -133,6 +138,10 @@ XXXXXXXXXXXXXXX
 * 
 * 
 
+### Sprint Notları
+* 
+* 
+* 
 ---
 
 ## SPRINT 3
@@ -181,4 +190,8 @@ XXXXXXXXXXXXXXX
 * 
 * 
 
+### Sprint Notları
+* 
+* 
+* 
 ---
