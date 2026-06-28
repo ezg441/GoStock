@@ -15,7 +15,7 @@ Grup 4 Yapay Zeka ve Teknoloji Akademisi - No-Code/Low-Code Bootcamp 2026 Projes
 
 ---
 
-## Ürün Bilgileri
+## Ürün Bilgileri 📌
 ### Ürün İsmi
 Condea
 ### Ürün Açıklaması
@@ -38,7 +38,7 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 
 ---
 
-## SPRINT 1
+## SPRINT 1 📌
 
 [https://yzta.slack.com/lists/T02LKGXV98C/F0BBQ5E352P]
 
@@ -101,7 +101,7 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 * 
 ---
 
-## SPRINT 2
+## SPRINT 2 📌
 
 [https://yzta.slack.com/lists/T02LKGXV98C/F0BBUDXPUES]
 
@@ -157,7 +157,7 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 * 
 ---
 
-## SPRINT 3
+## SPRINT 3 📌
 
 [https://yzta.slack.com/lists/T02LKGXV98C/F0BBWGD7SQ2]
 
